@@ -1,0 +1,40 @@
+.container {
+  width: 100%;
+}
+
+.input {
+  width: 300px;
+  margin:  auto;
+}
+
+.input input {
+  width: 80%;
+}
+
+.data {
+  width: 300px;
+  margin:  auto;
+}
+
+.data .element {
+  margin: 10px auto;
+  width: 250px;
+  border: 2px solid blue;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.data .element .image {
+  width: 100%;
+  height: 250px;
+}
+
+.data .element .title {
+  padding: 3px;
+  border-top: 2px solid blue;
+}
+
+.data .element .image img {
+  width: 100%;
+  height: 100%;
+}
